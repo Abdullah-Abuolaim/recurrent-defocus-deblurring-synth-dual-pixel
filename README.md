@@ -10,6 +10,8 @@
   <sup>1</sup>York University &nbsp; &nbsp; &nbsp; &nbsp; <sup>2</sup>Google Research
 </p>
 
+<img src="./figures/rdpd.gif" width="100%" alt="RDPD summary">
+
 <img src="./figures/teaser-git.png" width="100%" alt="teaser figure">
 
 Reference github repository for the paper [Learning to Reduce Defocus Blur by Realistically Modeling Dual-Pixel Data](https://arxiv.org/pdf/2012.03255.pdf). Abuolaim et al., arXiv:2012.03255, 2020. If you use our dataset or code, please cite our paper:
