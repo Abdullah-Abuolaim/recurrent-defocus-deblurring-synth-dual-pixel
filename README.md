@@ -28,10 +28,10 @@ Reference github repository for the paper [Learning to Reduce Defocus Blur by Re
 Will be available soon.
 
 ## Related Links
-* Our ECCV'18 paper: Revisiting Autofocus for Smartphone Cameras [project page](https://www.eecs.yorku.ca/~abuolaim/eccv_2018_autofocus/)
-* Our WACV'20 paper: Online Lens Motion Smoothing for Video Autofocus [project page](https://www.eecs.yorku.ca/~abuolaim/wacv_2020_autofocus_lens_motion/)
-* Our ICCP'20 paper: Modeling Defocus-Disparity in Dual-Pixel Sensors [github](https://github.com/abhijithpunnappurath/dual-pixel-defocus-disparity)
-* Our ECCV'20 paper: Defocus Deblurring Using Dual-Pixel Data [project page](https://www.eecs.yorku.ca/~abuolaim/eccv_2020_dp_defocus_deblurring/) [github](https://github.com/Abdullah-Abuolaim/defocus-deblurring-dual-pixel)
+* Our ECCV'18 paper: Revisiting Autofocus for Smartphone Cameras [[project page](https://www.eecs.yorku.ca/~abuolaim/eccv_2018_autofocus/)]
+* Our WACV'20 paper: Online Lens Motion Smoothing for Video Autofocus [[project page](https://www.eecs.yorku.ca/~abuolaim/wacv_2020_autofocus_lens_motion/)]
+* Our ICCP'20 paper: Modeling Defocus-Disparity in Dual-Pixel Sensors [[github](https://github.com/abhijithpunnappurath/dual-pixel-defocus-disparity)]
+* Our ECCV'20 paper: Defocus Deblurring Using Dual-Pixel Data [[project page](https://www.eecs.yorku.ca/~abuolaim/eccv_2020_dp_defocus_deblurring/)] &nbsp; [[github](https://github.com/Abdullah-Abuolaim/defocus-deblurring-dual-pixel)]
 
 ## References
 [1] Abdullah Abuolaim and Michael S. Brown. *Defocus Deblurring Using Dual-Pixel Data.* In ECCV, 2020.
