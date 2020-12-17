@@ -27,6 +27,12 @@ Reference github repository for the paper [Learning to Reduce Defocus Blur by Re
 ## Dataset, code, and trained models
 Will be available soon.
 
+## Contact
+
+Should you have any question/suggestion, please feel free to reach out:
+
+[Abdullah Abuolaim](http://www.eecs.yorku.ca/~abuolaim/) (abuolaim@eecs.yorku.ca)
+
 ## Related Links
 * ECCV'18 paper: Revisiting Autofocus for Smartphone Cameras &nbsp; [[project page](https://www.eecs.yorku.ca/~abuolaim/eccv_2018_autofocus/)]
 * WACV'20 paper: Online Lens Motion Smoothing for Video Autofocus &nbsp; [[project page](https://www.eecs.yorku.ca/~abuolaim/wacv_2020_autofocus_lens_motion/)]
