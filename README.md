@@ -16,10 +16,11 @@
 
 Reference github repository for the paper [Learning to Reduce Defocus Blur by Realistically Modeling Dual-Pixel Data](https://arxiv.org/pdf/2012.03255.pdf). Abuolaim et al., proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV), 2021. If you use our dataset or code, please cite our paper:
 ```
-@article{abuolaim2021learning,
+@inproceedings{abuolaim2021learning,
   title={Learning to Reduce Defocus Blur by Realistically Modeling Dual-Pixel Data},
   author={Abuolaim, Abdullah and Delbracio, Mauricio and Kelly, Damien and Brown, Michael S and Milanfar, Peyman},
-  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
+  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
+  pages={2289--2298},
   year={2021}
 }
 ```
