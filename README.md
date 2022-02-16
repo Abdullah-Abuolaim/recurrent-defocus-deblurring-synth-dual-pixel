@@ -14,13 +14,12 @@
 
 <img src="./figures/teaser-git.png" width="100%" alt="teaser figure">
 
-Reference github repository for the paper [Learning to Reduce Defocus Blur by Realistically Modeling Dual-Pixel Data](https://arxiv.org/pdf/2012.03255.pdf). Abuolaim et al., proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV), 2021. If you use our dataset or code, please cite our paper:
+Reference github repository for the paper [Learning to Reduce Defocus Blur by Realistically Modeling Dual-Pixel Data](https://arxiv.org/pdf/2012.03255.pdf). Abuolaim et al., proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV) 2021 ([YouTube presentation](https://www.youtube.com/watch?v=SxLgE3xwBAQ)). If you use our dataset or code, please cite our paper:
 ```
-@inproceedings{abuolaim2021learning,
+@article{abuolaim2021learning,
   title={Learning to Reduce Defocus Blur by Realistically Modeling Dual-Pixel Data},
   author={Abuolaim, Abdullah and Delbracio, Mauricio and Kelly, Damien and Brown, Michael S and Milanfar, Peyman},
-  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
-  pages={2289--2298},
+  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
   year={2021}
 }
 ```
@@ -42,7 +41,7 @@ Reference github repository for the paper [Learning to Reduce Defocus Blur by Re
 * Clone with HTTPS this project to your local machine 
 ```bash
 git clone https://github.com/Abdullah-Abuolaim/recurrent-defocus-deblurring-synth-dual-pixel.git
-cd ./multi-task-defocus-deblurring-dual-pixel-nimat/synthetic_dp_defocus_blur_code/
+cd ./recurrent-defocus-deblurring-synth-dual-pixel/synthetic_dp_defocus_blur_code/
 ```
 
 ### Synthetic dual-pixel (DP) views based on defocus blur
@@ -91,7 +90,7 @@ cd ./multi-task-defocus-deblurring-dual-pixel-nimat/synthetic_dp_defocus_blur_co
 * Clone with HTTPS this project to your local machine 
 ```bash
 git clone https://github.com/Abdullah-Abuolaim/recurrent-defocus-deblurring-synth-dual-pixel.git
-cd ./multi-task-defocus-deblurring-dual-pixel-nimat/rdpd_code/
+cd ./recurrent-defocus-deblurring-synth-dual-pixel/rdpd_code/
 ```
 
 ### Testing
@@ -150,10 +149,12 @@ Should you have any question/suggestion, please feel free to reach out:
 
 ## Related Links
 * ECCV'18 paper: Revisiting Autofocus for Smartphone Cameras &nbsp; [[project page](https://www.eecs.yorku.ca/~abuolaim/eccv_2018_autofocus/)]
-* WACV'20 paper: Online Lens Motion Smoothing for Video Autofocus &nbsp; [[project page](https://www.eecs.yorku.ca/~abuolaim/wacv_2020_autofocus_lens_motion/)]
-* ICCP'20 paper: Modeling Defocus-Disparity in Dual-Pixel Sensors &nbsp; [[github](https://github.com/abhijithpunnappurath/dual-pixel-defocus-disparity)]
-* ECCV'20 paper: Defocus Deblurring Using Dual-Pixel Data &nbsp; [[project page](https://www.eecs.yorku.ca/~abuolaim/eccv_2020_dp_defocus_deblurring/)] &nbsp; [[github](https://github.com/Abdullah-Abuolaim/defocus-deblurring-dual-pixel)]
-* WACV'22 paper: Improving Single-Image Defocus Deblurring: How Dual-Pixel Images Help Through Multi-Task Learning &nbsp; [[github](https://github.com/Abdullah-Abuolaim/multi-task-defocus-deblurring-dual-pixel-nimat)]
+* WACV'20 paper: Online Lens Motion Smoothing for Video Autofocus &nbsp; [[project page](https://www.eecs.yorku.ca/~abuolaim/wacv_2020_autofocus_lens_motion/)] &nbsp; [[presentation](https://www.youtube.com/watch?v=85z075A3rI0)]
+* ICCP'20 paper: Modeling Defocus-Disparity in Dual-Pixel Sensors &nbsp; [[github](https://github.com/abhijithpunnappurath/dual-pixel-defocus-disparity)] &nbsp; [[presentation](https://www.youtube.com/watch?v=Ow2ffrqjPiI)]
+* ECCV'20 paper: Defocus Deblurring Using Dual-Pixel Data &nbsp; [[project page](https://www.eecs.yorku.ca/~abuolaim/eccv_2020_dp_defocus_deblurring/)] &nbsp; [[github](https://github.com/Abdullah-Abuolaim/defocus-deblurring-dual-pixel)] &nbsp; [[presentation](https://www.youtube.com/watch?v=xb12cFiB8ww)]
+* CVPRW'21 paper: NTIRE 2021 Challenge for Defocus Deblurring Using Dual-pixel Images: Methods and Results &nbsp; [[pdf](https://openaccess.thecvf.com/content/CVPR2021W/NTIRE/papers/Abuolaim_NTIRE_2021_Challenge_for_Defocus_Deblurring_Using_Dual-Pixel_Images_Methods_CVPRW_2021_paper.pdf)] &nbsp; [[presentation](https://www.youtube.com/watch?v=OC52DLyz1lU)]
+* WACV'22 paper: Improving Single-Image Defocus Deblurring: How Dual-Pixel Images Help Through Multi-Task Learning &nbsp; [[github](https://github.com/Abdullah-Abuolaim/multi-task-defocus-deblurring-dual-pixel-nimat)] &nbsp; [[presentation](https://www.youtube.com/watch?v=eE9i81D3_Os)]
+* WACVW'22 paper: Multi-View Motion Synthesis via Applying Rotated Dual-Pixel Blur Kernels &nbsp; [[pdf](https://arxiv.org/pdf/2111.07837.pdf)] &nbsp; [[presentation](https://youtu.be/eIquI76r0dw)]
 
 ## References
 [1] Abdullah Abuolaim and Michael S. Brown. *Defocus Deblurring Using Dual-Pixel Data.* In ECCV, 2020.
